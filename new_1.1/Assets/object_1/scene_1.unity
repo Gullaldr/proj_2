@@ -2017,7 +2017,11 @@ Prefab:
     - target: {fileID: 2300006, guid: 8b0097ac7f0f3684582efe8044c5532d, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: fa0061f731eb5a84ea1cf7e2688faccc, type: 2}
+      objectReference: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+    - target: {fileID: 2300038, guid: 8b0097ac7f0f3684582efe8044c5532d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 8b0097ac7f0f3684582efe8044c5532d, type: 3}
   m_IsPrefabParent: 0
