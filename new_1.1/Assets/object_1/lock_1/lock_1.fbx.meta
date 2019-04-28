@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: 8b0097ac7f0f3684582efe8044c5532d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: block_A.009
+    100002: block_A.010
+    100004: block_A.011
+    100006: block_A.012
+    100008: block_A.013
+    100010: block_A.014
+    100012: block_A.015
+    100014: block_A.016
+    100016: block_A.017
+    100018: block_A.018
+    100020: block_A.019
+    100022: block_A.020
+    100024: block_A.021
+    100026: block_A.022
+    100028: block_A.023
+    100030: block_A.024
+    100032: block_A.025
+    100034: block_A.026
+    100036: block_A.027
+    100038: Cylinder.002
+    100040: Cylinder.003
+    100042: Cylinder.004
+    100044: Cylinder.007
+    100046: //RootNode
+    100048: Plane.002
+    100050: Text
+    400000: block_A.009
+    400002: block_A.010
+    400004: block_A.011
+    400006: block_A.012
+    400008: block_A.013
+    400010: block_A.014
+    400012: block_A.015
+    400014: block_A.016
+    400016: block_A.017
+    400018: block_A.018
+    400020: block_A.019
+    400022: block_A.020
+    400024: block_A.021
+    400026: block_A.022
+    400028: block_A.023
+    400030: block_A.024
+    400032: block_A.025
+    400034: block_A.026
+    400036: block_A.027
+    400038: Cylinder.002
+    400040: Cylinder.003
+    400042: Cylinder.004
+    400044: Cylinder.007
+    400046: //RootNode
+    400048: Plane.002
+    400050: Text
+    2100000: b_2_45
+    2100002: b_3
+    2100004: b_4
+    2100006: b_1
+    2100008: b_5
+    2100010: b_6
+    2100012: b_7
+    2100014: b_8
+    2100016: b_9
+    2100018: b_10
+    2100020: b_11
+    2100022: No Name
+    2300000: block_A.009
+    2300002: block_A.010
+    2300004: block_A.011
+    2300006: block_A.012
+    2300008: block_A.013
+    2300010: block_A.014
+    2300012: block_A.015
+    2300014: block_A.016
+    2300016: block_A.017
+    2300018: block_A.018
+    2300020: block_A.019
+    2300022: block_A.020
+    2300024: block_A.021
+    2300026: block_A.022
+    2300028: block_A.023
+    2300030: block_A.024
+    2300032: block_A.025
+    2300034: block_A.026
+    2300036: block_A.027
+    2300038: Cylinder.002
+    2300040: Cylinder.003
+    2300042: Cylinder.004
+    2300044: Cylinder.007
+    2300046: Plane.002
+    2300048: Text
+    3300000: block_A.009
+    3300002: block_A.010
+    3300004: block_A.011
+    3300006: block_A.012
+    3300008: block_A.013
+    3300010: block_A.014
+    3300012: block_A.015
+    3300014: block_A.016
+    3300016: block_A.017
+    3300018: block_A.018
+    3300020: block_A.019
+    3300022: block_A.020
+    3300024: block_A.021
+    3300026: block_A.022
+    3300028: block_A.023
+    3300030: block_A.024
+    3300032: block_A.025
+    3300034: block_A.026
+    3300036: block_A.027
+    3300038: Cylinder.002
+    3300040: Cylinder.003
+    3300042: Cylinder.004
+    3300044: Cylinder.007
+    3300046: Plane.002
+    3300048: Text
+    4300000: Plane.002
+    4300002: block_A.012
+    4300004: Cylinder.002
+    4300006: block_A.009
+    4300008: block_A.010
+    4300010: block_A.011
+    4300012: block_A.016
+    4300014: block_A.013
+    4300016: block_A.014
+    4300018: block_A.015
+    4300020: block_A.017
+    4300022: block_A.018
+    4300024: block_A.019
+    4300026: block_A.020
+    4300028: block_A.021
+    4300030: block_A.022
+    4300032: block_A.023
+    4300034: block_A.024
+    4300036: block_A.025
+    4300038: block_A.026
+    4300040: block_A.027
+    4300042: Cylinder.003
+    4300044: Cylinder.007
+    4300046: Cylinder.004
+    4300048: Text
+    6400000: block_A.009
+    6400002: block_A.010
+    6400004: block_A.011
+    6400006: block_A.012
+    6400008: block_A.013
+    6400010: block_A.014
+    6400012: block_A.015
+    6400014: block_A.016
+    6400016: block_A.017
+    6400018: block_A.018
+    6400020: block_A.019
+    6400022: block_A.020
+    6400024: block_A.021
+    6400026: block_A.022
+    6400028: block_A.023
+    6400030: block_A.024
+    6400032: block_A.025
+    6400034: block_A.026
+    6400036: block_A.027
+    6400038: Cylinder.002
+    6400040: Cylinder.003
+    6400042: Cylinder.004
+    6400044: Cylinder.007
+    6400046: Plane.002
+    6400048: Text
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: fa0061f731eb5a84ea1cf7e2688faccc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_1
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_10
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_11
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_2_45
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_3
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_4
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_5
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_6
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_7
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_8
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_9
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
