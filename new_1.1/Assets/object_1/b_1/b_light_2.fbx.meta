@@ -1,37 +1,19 @@
 fileFormatVersion: 2
-guid: 05644a55c486d9b408a88d5be2769645
+guid: 75c5d26d6921c804ba23cdf0aba74f84
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
-    100002: wheel_LOD0
-    100004: wheel_LOD1
-    100006: wheel_LOD2
-    100008: wheel_LOD3
     400000: //RootNode
-    400002: wheel_LOD0
-    400004: wheel_LOD1
-    400006: wheel_LOD2
-    400008: wheel_LOD3
-    2100000: No Name
-    2300000: wheel_LOD0
-    2300002: wheel_LOD1
-    2300004: wheel_LOD2
-    2300006: wheel_LOD3
-    3300000: wheel_LOD0
-    3300002: wheel_LOD1
-    3300004: wheel_LOD2
-    3300006: wheel_LOD3
-    4300000: wheel_LOD0
-    4300002: wheel_LOD1
-    4300004: wheel_LOD2
-    4300006: wheel_LOD3
-    20500000: //RootNode
+    2100000: b_11
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Cylinder.007
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: No Name
+      name: b_11
     second: {fileID: 2100000, guid: df5d6dc8d39fe5849847898493e2d8a8, type: 2}
   materials:
     importMaterials: 1
@@ -62,11 +44,7 @@ ModelImporter:
     clipAnimations: []
     isReadable: 1
   meshes:
-    lODScreenPercentages:
-    - 0.25
-    - 0.125
-    - 0.0625
-    - 0.01
+    lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
     addColliders: 0
@@ -74,7 +52,7 @@ ModelImporter:
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    swapUVChannels: 0
+    swapUVChannels: 1
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
