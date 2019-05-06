@@ -538,7 +538,8 @@ PlayerSettings:
   webGLUseEmbeddedResources: 0
   webGLCompressionFormat: 1
   webGLLinkerTarget: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    1: AURA_IN_PROJECT;AURA_IN_SCENEVIEW
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
