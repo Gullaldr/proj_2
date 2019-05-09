@@ -29,6 +29,14 @@ ModelImporter:
     100046: //RootNode
     100048: Plane.002
     100050: Text
+    100052: block_A.000
+    100054: block_A.001
+    100056: block_A.002
+    100058: block_A.003
+    100060: block_A.004
+    100062: block_A.006
+    100064: Cylinder
+    100066: lift_1
     400000: block_A.009
     400002: block_A.010
     400004: block_A.011
@@ -55,6 +63,14 @@ ModelImporter:
     400046: //RootNode
     400048: Plane.002
     400050: Text
+    400052: block_A.000
+    400054: block_A.001
+    400056: block_A.002
+    400058: block_A.003
+    400060: block_A.004
+    400062: block_A.006
+    400064: Cylinder
+    400066: lift_1
     2100000: b_2_45
     2100002: b_3
     2100004: b_4
@@ -67,6 +83,15 @@ ModelImporter:
     2100018: b_10
     2100020: b_11
     2100022: No Name
+    2100024: b_12
+    2100026: lift
+    2100028: lift_1
+    2100030: lift_3
+    2100032: lift_2
+    2100034: b_13
+    2100036: b_14
+    2100038: b_15
+    2100040: b_16
     2300000: block_A.009
     2300002: block_A.010
     2300004: block_A.011
@@ -92,6 +117,14 @@ ModelImporter:
     2300044: Cylinder.007
     2300046: Plane.002
     2300048: Text
+    2300050: block_A.000
+    2300052: block_A.001
+    2300054: block_A.002
+    2300056: block_A.003
+    2300058: block_A.004
+    2300060: block_A.006
+    2300062: Cylinder
+    2300064: lift_1
     3300000: block_A.009
     3300002: block_A.010
     3300004: block_A.011
@@ -117,6 +150,14 @@ ModelImporter:
     3300044: Cylinder.007
     3300046: Plane.002
     3300048: Text
+    3300050: block_A.000
+    3300052: block_A.001
+    3300054: block_A.002
+    3300056: block_A.003
+    3300058: block_A.004
+    3300060: block_A.006
+    3300062: Cylinder
+    3300064: lift_1
     4300000: Plane.002
     4300002: block_A.012
     4300004: Cylinder.002
@@ -142,6 +183,14 @@ ModelImporter:
     4300044: Cylinder.007
     4300046: Cylinder.004
     4300048: Text
+    4300050: block_A.000
+    4300052: lift_1
+    4300054: block_A.003
+    4300056: block_A.002
+    4300058: block_A.004
+    4300060: block_A.001
+    4300062: block_A.006
+    4300064: Cylinder
     6400000: block_A.009
     6400002: block_A.010
     6400004: block_A.011
@@ -167,6 +216,15 @@ ModelImporter:
     6400044: Cylinder.007
     6400046: Plane.002
     6400048: Text
+    6400050: block_A.000
+    6400052: block_A.001
+    6400054: block_A.002
+    6400056: block_A.003
+    6400058: block_A.004
+    6400060: block_A.006
+    6400062: Cylinder
+    6400064: lift_1
+    2186277476908879412: ImportLogs
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -187,6 +245,31 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: b_11
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_12
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_13
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_14
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_15
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b_16
     second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
   - first:
       type: UnityEngine:Material
@@ -227,6 +310,26 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: b_9
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lift
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lift_1
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lift_2
+    second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lift_3
     second: {fileID: 2100000, guid: 664d5064bf5b49742b3021ca48eb298e, type: 2}
   materials:
     importMaterials: 1
