@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - lift
+  - 228
+  - Canvas
   layers:
   - Default
   - TransparentFX
